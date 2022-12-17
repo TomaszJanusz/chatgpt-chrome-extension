@@ -15,5 +15,5 @@ jobs:
           owner: TomaszJanusz
           base: main
           head: main
-          auto_approve: false
+          auto_approve: true
           retries: 1
